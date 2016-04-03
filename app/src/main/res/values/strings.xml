@@ -1,0 +1,15 @@
+<resources>
+    <!-- App strings -->
+    <string name="app_name">WifiRemote</string>
+    <!-- Main UI Joystick strings -->
+    <string name="roll_str">Roll</string>
+    <string name="yaw_str">Yaw</string>
+    <string name="pitch_str">Pitch</string>
+    <string name="throttle_str">Throttle</string>
+    <string name="status_str">Status</string>
+    <string name="signal_strength_str">Signal</string>
+    <!-- Settings UI strings -->
+    <string name="settings_activity_title">Settings</string>
+    <string name="settings_activity_connect_btn_text">Connect</string>
+    <string name="settings_activity_disconnect_btn_text">Disconnect</string>
+</resources>
