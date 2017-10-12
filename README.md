@@ -1,7 +1,7 @@
 MultiWii 2.2 based quadcopter controller
 ========================================
 
-This is a very simple quadcopter controller following the MultiWii Serial Protocol(MSP) format. The control signals are sent via UDP while the android phone is connected to the ESP-01 module(Wifi AP) of the quadcopter. The message IDs are customized, so it will not work for standard MWC(MultiWii Copter) quadcopters. For more information on MultiWii Serial Protocol(MSP), see [this]("http://www.multiwii.com/wiki/index.php?title=Multiwii_Serial_Protocol").
+This is a very simple quadcopter controller following the MultiWii Serial Protocol(MSP) format. The control signals are sent via UDP while the android phone is connected to the ESP-01 module(Wifi AP) of the quadcopter. The message IDs are customized, so it will not work for standard MWC(MultiWii Copter) quadcopters. For more information on MultiWii Serial Protocol(MSP), see [this](http://www.multiwii.com/wiki/index.php?title=Multiwii_Serial_Protocol).
 
 Currently there is only the uplink communication to the MWC, therefore the application is unable to obtain the quadcopter's status.
 
