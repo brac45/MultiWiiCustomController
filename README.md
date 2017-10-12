@@ -11,4 +11,6 @@ The joystick UI can be found [here](https://code.google.com/p/mobile-anarchy-wid
 
 Check out the [MultiWii website](http://www.multiwii.com/software) for other versions of MultiWii.
 
+I wrote this application to study MWC quadcopters' interface in my free time.
+
 Anyone can use this code freely.
