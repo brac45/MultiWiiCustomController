@@ -5,7 +5,7 @@ This is a very simple quadcopter controller following the MultiWii Serial Protoc
 
 Currently there is only the uplink communication to the MWC, therefore the application is unable to obtain the quadcopter's status.
 
-The joystick UI is from mobile-anarchy-widgets and I am using MultiWii 2.2 for my base flight control. Joystick UI license: New BSD License, holder/author: mobile-anarchy-widgets (admin /at/ mobileanarchy.com). MultiWii 2.2 License: GNU GPL v3. I do not claim ownership for these 2 projects.
+The joystick UI is from mobile-anarchy-widgets and I am using MultiWii 2.2 for my custom MultiWii quadcopter. Joystick UI license: New BSD License, holder/author: mobile-anarchy-widgets (admin /at/ mobileanarchy.com). MultiWii 2.2 License: GNU GPL v3. I do not claim ownership for these 2 projects.
 
 The joystick UI can be found [here](https://code.google.com/p/mobile-anarchy-widgets/wiki/JoystickView "mobile-anarchy-widgets").
 
