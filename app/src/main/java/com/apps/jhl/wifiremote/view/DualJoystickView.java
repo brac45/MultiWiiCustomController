@@ -1,4 +1,4 @@
-/* Copyright <2011> <mobile-anarchy-widgest>
+/* Copyright <2011> <mobile-anarchy-widgets>
 *
 * Redistribution and use in source and binary forms, with or without modification,
 * are permitted provided that the following conditions are met:
