@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiWiiWifiRemote.iml" filepath="$PROJECT_DIR$/MultiWiiWifiRemote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MultiWiiCustomController.iml" filepath="$PROJECT_DIR$/MultiWiiCustomController.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
