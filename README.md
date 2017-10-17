@@ -15,6 +15,13 @@ I wrote this application to study MWC quadcopters' interface in my free time.
 
 ### Build Information
  - IDE : Android Studio
- - SDK : Android SDK 23
+ - SDK : Android SDK 23 (Consult build.gradle script for more information)
  
 ### Screenshots
+
+#### Main UI
+<img src="main.png" width="480">
+
+
+#### Settings UI
+<img src="settings.png" width="480">
